@@ -48,10 +48,9 @@ Run Instructions
 
 8. In case the recognition is not correct, user can re-label each segmented label by click on the 'Pop-up Menu' under each segmented Label. Move the Slide bar to select the 'Factor' to refine the segmentation result. The refinement procedure starts from Cortex, then to Medulla and Pelvis. Click 'Save' to save the segmentation result in gipl format. 
 
-Demo: We provide a demo video (as the below link) that illustrates our implementation method.  
-
-      [https://www.youtube.com/watch?v=vLO6_J_aFKU]("https://www.youtube.com/watch?v=vLO6_J_aFKU")
-
+Demo: We provide a demo video (as the below link) that illustrates our implementation method.   
+[https://www.youtube.com/watch?v=vLO6_J_aFKU]("https://www.youtube.com/watch?v=vLO6_J_aFKU")  
+  
 Contacts: For more information please contact us 
 
 Xin Yang: xinyang2014@hust.edu.cn
